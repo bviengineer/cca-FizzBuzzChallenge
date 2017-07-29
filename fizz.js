@@ -1,3 +1,4 @@
+//--Fizz Buzz Pair Challenge: Cynthia & Kaisma
 var userClick = document.getElementById("user-click"),
     clearOutput = document.getElementById("clear-output"),
     displayArea = document.getElementById("display-area");
